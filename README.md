@@ -23,7 +23,7 @@ and to refresh command syntax, output, changed prerequisites, as needed.
 See [Example Guidelines](guidelines.md) for a description of what goes
 in this directory, and what examples should contain.
 
-[Kubernetes documentation]: https://kubernetes.io/docs/tutorials/
+[Kubernetes example documentation  ]: https://kubernetes.io/docs/tutorials/
 
 ### Contributing
 
